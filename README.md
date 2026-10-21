@@ -11,7 +11,7 @@ A responsive static portfolio website for GitHub Pages, showcasing software proj
 - `projects/java-swing-chat.html` — Java chat project, marked in progress.
 
 ## ScreenPulse files
-The public repository includes the fictional source data and calculated metrics in CSV format, a format comparison chart (SVG), and the ScreenPulse AI workflow notes. The original Excel workbooks and PowerPoint/PDF report source artifacts have not been uploaded to this repository yet.
+The public repository includes the fictional source data and calculated metrics in CSV format, a format comparison chart (SVG), a Markdown report summary and the ScreenPulse AI workflow notes. The original Excel workbooks, PowerPoint/PDF files and supplied screenshot images have not been uploaded to this repository yet.
 
 ## Preview locally
 Double-click `index.html` in a browser. To run a local server, open PowerShell in this folder and run:
