@@ -27,3 +27,18 @@ body{background:#f5f7fb}
 .page-hero .breadcrumbs a{color:#dbe6f6}
 footer{background:#14243d;color:#d9e5f4;padding:30px 0;margin-top:48px}
 footer a{color:#fff}
+
+
+/* Explicit blue-theme restoration */
+.hero{background:linear-gradient(125deg,#10224b 0%,#174ca8 58%,#087b9e 100%)!important;color:#fff}
+.site-header{background:#10224b!important;color:#fff;border-bottom:1px solid rgba(255,255,255,.15)}
+.site-header .nav nav a{color:#e0eaff}
+.site-header .nav nav a:hover,.site-header .nav nav a.active{color:#fff}
+.highlight{background:rgba(255,255,255,.10);border:1px solid rgba(255,255,255,.24);color:#fff}
+.highlight h2{color:#fff}
+.highlight p{color:#e3ecff}
+.highlight .eyebrow{color:#8ce7dc}
+.highlight .stats div{background:rgba(255,255,255,.11)}
+.highlight .stats strong{color:#fff}
+.highlight .stats span{color:#e1eaff}
+.page-hero{background:linear-gradient(125deg,#10224b 0%,#174ca8 58%,#087b9e 100%)!important;color:#fff}
